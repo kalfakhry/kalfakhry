@@ -11,8 +11,6 @@ was at **Cisco Systems**, where I received the 2018 Cisco Pioneer Award for core
 contributions to [pyATS](https://developer.cisco.com/pyats/), Cisco's network
 test framework.
 
-Most of my work lives in private repos, so this profile is quiet by design.
-
 **Working with:** Go · Python · TypeScript · Kafka · gRPC · AWS · Kubernetes
 
 🌐 [kalfakhry.com](https://kalfakhry.com) &nbsp;·&nbsp;
