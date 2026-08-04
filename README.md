@@ -15,4 +15,3 @@ test framework.
 
 🌐 [kalfakhry.com](https://kalfakhry.com) &nbsp;·&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/kalfakhry) &nbsp;·&nbsp;
-✉️ [kalfakhry@gmail.com](mailto:kalfakhry@gmail.com)
