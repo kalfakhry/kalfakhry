@@ -14,4 +14,4 @@ test framework.
 **Working with:** Go · Python · TypeScript · Kafka · gRPC · AWS · Kubernetes
 
 🌐 [kalfakhry.com](https://kalfakhry.com) &nbsp;·&nbsp;
-💼 [LinkedIn](https://linkedin.com/in/kalfakhry) &nbsp;
+💼 [LinkedIn](https://linkedin.com/in/kalfakhry)
